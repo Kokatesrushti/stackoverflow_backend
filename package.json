@@ -11,11 +11,16 @@
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
+    "cloudinary": "^1.35.0",
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
+    "fast-two-sms": "^3.0.0",
     "jsonwebtoken": "^8.5.1",
+    "messagebird": "^4.0.1",
     "mongoose": "^6.8.0",
-    "nodemon": "^2.0.20"
+    "nodemon": "^2.0.20",
+    "razorpay": "^2.8.6",
+    "twilio": "^4.8.0"
   }
 }
